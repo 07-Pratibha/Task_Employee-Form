@@ -11,6 +11,7 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 * Admin can update the details of any of the existing employee.
 * Admin can reset the from details & fill in new details. It will update in real time in the database.
 
+# Project Preview
 Home Page
 ![image](https://user-images.githubusercontent.com/95922152/218434259-b07e5a87-c795-48a8-8435-c5a6f26f3789.png)
 
